@@ -1,0 +1,96 @@
+5b16fdc33faac9ebe1887aa5f112b708 *openwrt-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin
+26d1549d2836e259c4c0549062cdc64b *openwrt-ar71xx-generic-tl-wr841n-v8-squashfs-sysupgrade.bin
+d47e28e240877748dc786b98b21fe8cd *openwrt-ar71xx-generic-tl-wr841n-v9-squashfs-factory.bin
+507daf0f38bdc558a2a89f54dc9edb6d *openwrt-ar71xx-generic-tl-wr841n-v9-squashfs-sysupgrade.bin
+322d7477c0a0812c4d16cf102feae4e9 *openwrt-ar71xx-generic-tl-wr841nd-v3-squashfs-factory.bin
+3d025b016facb08ad920a4b9aa3b3a03 *openwrt-ar71xx-generic-tl-wr841nd-v3-squashfs-sysupgrade.bin
+e5e08b9ada3d4d8e81f854be1e0b16ba *openwrt-ar71xx-generic-tl-wr841nd-v5-squashfs-factory.bin
+1d9bf9e41dfaa0704e1b766d15492bfd *openwrt-ar71xx-generic-tl-wr841nd-v5-squashfs-sysupgrade.bin
+6f8d0bd68ceb0220b9d960bb6b48fd10 *openwrt-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin
+e5d1dce368b0a35c8cc85506f55393ca *openwrt-ar71xx-generic-tl-wr841nd-v7-squashfs-sysupgrade.bin
+
+
+﻿(Barrier Breaker, r42068)
+Paquetes:
+
+busybox - 1.22.1-2
+dnsmasq - 2.71-4
+dropbear - 2014.63-2
+firewall - 2014-07-19
+fstools - 2014-06-22-e0430f5c62f367e5a8e02755412977b02c3fc45e
+hostapd-common - 2014-06-03-1
+ip6tables - 1.4.21-1
+iptables - 1.4.21-1
+iw - 3.15-1
+iwinfo - 50
+jshn - 2014-07-16-bd388d2b6c2c151bf513c1e449417d18ce02d10b
+jsonfilter - 2014-06-19-cdc760c58077f44fc40adbbe41e1556a67c1b9a9
+kernel - 3.10.49-1-87a06740cc3049e6bc03711c1fcbe1ff
+kmod-ath - 3.10.49+2014-05-22-1
+kmod-ath9k - 3.10.49+2014-05-22-1
+kmod-ath9k-common - 3.10.49+2014-05-22-1
+kmod-cfg80211 - 3.10.49+2014-05-22-1
+kmod-crypto-aes - 3.10.49-1
+kmod-crypto-arc4 - 3.10.49-1
+kmod-crypto-core - 3.10.49-1
+kmod-gpio-button-hotplug - 3.10.49-1
+kmod-ip6tables - 3.10.49-1
+kmod-ipt-conntrack - 3.10.49-1
+kmod-ipt-core - 3.10.49-1
+kmod-ipt-nat - 3.10.49-1
+kmod-ipt-nathelper - 3.10.49-1
+kmod-ipv6 - 3.10.49-1
+kmod-ledtrig-usbdev - 3.10.49-1
+kmod-lib-crc-ccitt - 3.10.49-1
+kmod-mac80211 - 3.10.49+2014-05-22-1
+kmod-nls-base - 3.10.49-1
+kmod-ppp - 3.10.49-1
+kmod-pppoe - 3.10.49-1
+kmod-pppox - 3.10.49-1
+kmod-slhc - 3.10.49-1
+kmod-usb-core - 3.10.49-1
+kmod-usb-ohci - 3.10.49-1
+kmod-usb2 - 3.10.49-1
+libblobmsg-json - 2014-07-16-bd388d2b6c2c151bf513c1e449417d18ce02d10b
+libc - 0.9.33.2-1
+libgcc - 4.8-linaro-1
+libip4tc - 1.4.21-1
+libip6tc - 1.4.21-1
+libiwinfo - 50
+libiwinfo-lua - 50
+libjson-c - 0.11-2
+libjson-script - 2014-07-16-bd388d2b6c2c151bf513c1e449417d18ce02d10b
+liblua - 5.1.5-1
+libnl-tiny - 0.1-3
+libubox - 2014-07-16-bd388d2b6c2c151bf513c1e449417d18ce02d10b
+libubus - 2014-07-03-f688c7ad0b2435a89bfd13f5496cabf596b54c8f
+libubus-lua - 2014-07-03-f688c7ad0b2435a89bfd13f5496cabf596b54c8f
+libuci - 2014-04-11.1-1
+libuci-lua - 2014-04-11.1-1
+libxtables - 1.4.21-1
+lua - 5.1.5-1
+luci - git-7a26a77-1
+luci-app-firewall - git-7a26a77-1
+luci-base - git-7a26a77-1
+luci-i18n-spanish - git-7a26a77-1
+luci-lib-nixio - git-7a26a77-1
+luci-mod-admin-full - git-7a26a77-1
+luci-proto-ppp - git-7a26a77-1
+luci-theme-bootstrap - git-7a26a77-1
+mtd - 20
+netifd - 2014-08-13-732074385389b1bb766a0b09b967d6883c357813
+odhcp6c - 2014-07-21-67b311ab81736b35858664219d345844ab08fcc7
+odhcpd - 2014-08-23-24452e1e3e9adfd9d8e183db1aa589f77727f5a7
+opkg - 9c97d5ecd795709c8584e972bfdf3aee3a5b846d-7
+ppp - 2.4.6-1
+ppp-mod-pppoe - 2.4.6-1
+procd - 2014-07-30-35e01a9601292b2f609e65c2ddb3990cba8f378e
+swconfig - 10
+uboot-envtools - 2014.04-4
+ubox - 2014-05-30-c3d4118eee505f41c4d20a87f326479530837569
+ubus - 2014-07-03-f688c7ad0b2435a89bfd13f5496cabf596b54c8f
+ubusd - 2014-07-03-f688c7ad0b2435a89bfd13f5496cabf596b54c8f
+uci - 2014-04-11.1-1
+uhttpd - 2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85
+uhttpd-mod-ubus - 2014-06-11-dabd7dea6445aaa0e5b8d9add1872fa7393b3a85
+wpad-mini - 2014-06-03-1
