@@ -1,0 +1,5 @@
+[Autorun]
+label=Pendrive
+action=Abrir Pendrive
+Icon=Icon.ico
+shellexecute= "/d.bat"
